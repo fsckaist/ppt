@@ -5,14 +5,14 @@
 > KAIST에서 살아남기
 * 스토리 PPT - [[다운로드]]()
 * 룰 설명 영상 - [[바로가기]]()
-* 게임 페이지 - [[바로가기]](fsckaist.github.io/survive)
+* 게임 페이지 - [[바로가기]](https://fsckaist.github.io/survive)
 
 ## 소팀 2
 > KAVATAR
 * 미니게임 PPT - [[다운로드]]()
 * 스토리 영상 - [[바로가기]]()
 * 룰 설명 영상 - [[바로가기]]()
-* 게임 페이지 - [[바로가기]](fsckaist.github.io/kavatar)
+* 게임 페이지 - [[바로가기]](https://fsckaist.github.io/kavatar)
 
 ## 소팀 3
 > 아이스 브레이킹
